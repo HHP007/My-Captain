@@ -5,4 +5,4 @@ DATE:09/05/2022
 
 nameoffile = input("Input the Filename: ")
 extention = nameoffile.split(".")
-print ("\n The extension of the file is : " + extention[-1])
+print ("\n The extension of the file is : " , extention[-1])
